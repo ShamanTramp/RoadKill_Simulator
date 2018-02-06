@@ -37,8 +37,3 @@ Exports/Windows x64/WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
 Exports/Windows x64/WindowsNoEditor/RoadKill_Simulator.exe
 Exports/Windows x64/WindowsNoEditor/RoadKill_Simulator.zip
 Exports/Windows x64/WindowsNoEditor/RoadKill_Simulator/Content/Paks/RoadKill_Simulator-WindowsNoEditor.pak
-Content/Blueprints/2293544182182343981801131592073466149234137.ico
-Content/Maps/8448135225202233127721671434269123226231169980.ico
-Content/Materials/702262361331886214618741663123921423818378984.ico
-Content/Models/198172221522312824083215223515623875109131663.ico
-*.ico
